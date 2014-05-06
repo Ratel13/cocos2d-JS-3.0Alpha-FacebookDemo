@@ -58,6 +58,7 @@ void Java_org_cocos2dx_lib_Cocos2dxRenderer_nativeInit(JNIEnv*  env, jobject thi
     if (!glview)
     {
         glview = cocos2d::GLView::create("Android app");
+        log("%d",glview);
         glview->setFrameSize(w, h);
         director->setOpenGLView(glview);
 

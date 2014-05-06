@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ACE0EF8C-AB8E-4126-9100-8397A339FC3E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cocos2d-JS-3.0Alpha-FacebookDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DDB0FF59-6A57-4065-9628-56BCD894EDC9</key>
+		<string>ssh://github.com/Ryeeeeee/cocos2d-JS-3.0Alpha-FacebookDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>frameworks/runtime-src/proj.ios_mac/cocos2d-JS-3.0Alpha-FacebookDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DDB0FF59-6A57-4065-9628-56BCD894EDC9</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Ryeeeeee/cocos2d-JS-3.0Alpha-FacebookDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DDB0FF59-6A57-4065-9628-56BCD894EDC9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DDB0FF59-6A57-4065-9628-56BCD894EDC9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2d-JS-3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

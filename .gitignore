@@ -31,3 +31,6 @@ proguard/
 
 # build projects
 runtime/
+
+# Eclipse workspace config file
+.metadata
