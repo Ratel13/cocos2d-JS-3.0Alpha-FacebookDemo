@@ -12,10 +12,10 @@
 bin/
 gen/
 assets/
-libs/
+#libs/
 obj/
 .DS_Strore
-local.properties
+#local.properties
 #*.xcodeproj
 #frameworks/js-bindings/cocos2d-x/cocos/2d/platform/android/java/project.properties
 #frameworks/runtime-src/proj.android/project.properties
@@ -30,7 +30,7 @@ local.properties
 proguard/
 
 # build projects
-runtime/
+#runtime/
 
 # Eclipse workspace config file
 .metadata

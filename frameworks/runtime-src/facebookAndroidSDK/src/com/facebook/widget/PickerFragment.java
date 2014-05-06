@@ -635,7 +635,7 @@ public abstract class PickerFragment<T extends GraphObject> extends Fragment {
             listView.setLayoutParams(layoutParams);
 
             if (titleBarBackground != null) {
-                titleBar.setBackgroundDrawable(titleBarBackground);
+                titleBar.setBackgroundResource(R.styleable.com_facebook_picker_fragment_title_bar_background);
             }
 
             doneButton = (Button) view.findViewById(R.id.com_facebook_picker_done_button);
@@ -657,7 +657,7 @@ public abstract class PickerFragment<T extends GraphObject> extends Fragment {
                 }
 
                 if (doneButtonBackground != null) {
-                    doneButton.setBackgroundDrawable(doneButtonBackground);
+                    doneButton.setBackgroundResource(R.styleable.com_facebook_picker_fragment_done_button_background);
                 }
             }
 
